@@ -2,7 +2,7 @@
 
 I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity track - at the University of Pisa. I have previously completed a Bachelor's Degree in Computer Engineering 💻
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=loremancio)](https://github.com/loremancio/github-readme-stats)
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=loremancio&show_icons=true)](https://github.com/loremancio/github-readme-stats)
 
 <!--
 **loremancio/loremancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
