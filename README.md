@@ -2,9 +2,15 @@
 
 I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity track - at the University of Pisa. I have previously completed a Bachelor's Degree in Computer Engineering 💻
 
-### Skills
+### 🧠 Skills
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,js,kotlin,php,py)](https://skillicons.dev)
+#### 👨‍💻 Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,js,kotlin,php,py,assembly)](https://skillicons.dev)
+
+#### 🛠️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=bash,bootstrap,clion,cmake,git,jupyter,neo4j,mysql,mongodb,spring,vscode)](https://skillicons.dev)
 
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=loremancio&show_icons=true&theme=transparent)](https://github.com/loremancio/github-readme-stats)
 
