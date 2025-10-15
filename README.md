@@ -12,8 +12,6 @@ I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity
 
 [![Tools](https://skillicons.dev/icons?i=bash,bootstrap,clion,cmake,git,jupyter,neo4j,mysql,mongodb,spring,vscode)](https://skillicons.dev)
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=loremancio&show_icons=true&theme=transparent)](https://github.com/loremancio/github-readme-stats)
-
 <!--
 **loremancio/loremancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
