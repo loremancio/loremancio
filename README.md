@@ -5,7 +5,9 @@ I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity
 ### About Me
 
 💻 I’m a developer with a strong interest in **cybersecurity**, **software engineering**, and **technology innovation**.
+
 📊 I’m the person everyone calls when it’s time to make the slides look good.
+
 📸 I enjoy **photography**, **graphic design**, and everything that lets me play with visuals and creativity.
 
 ### 🧠 Skills
