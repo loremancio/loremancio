@@ -10,7 +10,7 @@ I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity
 
 📸 I enjoy **photography**, **graphic design**, and everything that lets me play with visuals and creativity.
 
-### 🧠 Skills
+### Skills
 
 #### 👨‍💻 Programming Languages
 
@@ -28,7 +28,7 @@ I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity
 
 [![Web](https://skillicons.dev/icons?i=bootstrap,html,css,php,js)](https://skillicons.dev)
 
-### 🌐 Connect with me!
+### Connect with me!
 
 <p align="left">
   <a href="https://github.com/loremancio" target="_blank">
