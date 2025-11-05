@@ -20,7 +20,7 @@ I'm a student pursuing a Master's Degree in Computer Engineering - Cybersecurity
 
 #### 📁 Database
 
-[![Tools](https://skillicons.dev/icons?i=sql,mongodb,neo4j)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 #### 🕸️ Web application
 
